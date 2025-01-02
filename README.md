@@ -20,8 +20,8 @@ Login pasien dan pendaftaran pasien dilakukan melalui halaman login pasien, meng
 
 ## Cara Running
 - **buat folder di xampp/htdocs/NewBKPoliklinik**
-- **git clone alamat-repository https://github.com/arckhl/NewBkPoliklinik.git di folder NewBKPoliklinik**
+- **git clone https://github.com/arckhl/NewBkPoliklinik.git di folder NewBKPoliklinik**
 - **aktifkan MySQL pada aplikasi xampp**
 - **lalu import database ke [localhost](http://localhost/phpmyadmin)**
 - **buat nama database sesuai dengan "poliklinik" dalam folder db**
-- **lalu run localhost dan folder yang dituju semisalkan http://localhost/BingkarBengkod/**
+- **lalu run localhost dan folder yang dituju semisalkan http://localhost/NewBKPoliklinik/**
